@@ -1,2 +1,2 @@
-# Snake-Game-2
-Another snake game but with new features
+# Tic-Tac-Toe
+Java refresher program for fun.
