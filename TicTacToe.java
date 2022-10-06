@@ -40,10 +40,10 @@ public class TicTacToe implements ActionListener {
         btn_panel.setBackground(Color.darkGray);
 
         // add the btns
-        for (int i = 1; i <= 9; i++) {
+        for (int i = 0; i < 9; i++) {
             // create a new btn
             btns[i] = new JButton();
-            
+
             // add btns to button panel
             btn_panel.add(btns[i]);
             btns[i].setFont(new Font("Candara Light", Font.BOLD, 50));
